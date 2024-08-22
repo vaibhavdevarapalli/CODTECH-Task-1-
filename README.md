@@ -1,8 +1,8 @@
-**Name**: D G VAIBHAV KRISHNA CHOWDARY  
-**Company**: CODTECH IT SOLUTIONS  
-**ID**: CT08DS6146  
-**Domain**: Data Analytics  
-**Duration**: August to September 2024
+**Name:** D G VAIBHAV KRISHNA CHOWDARY  
+**Company:** CODTECH IT SOLUTIONS  
+**ID:** CT08DS6146  
+**Domain:** Data Analytics  
+**Duration:** August to September 2024
 
 ## Customer Segmentation using K-Means Clustering
 
@@ -25,3 +25,9 @@ This project demonstrates customer segmentation using the K-Means clustering alg
 5. **Optimal Number of Clusters**: Use the elbow method to determine the optimal number of clusters.
 6. **Training the K-Means Model**: Train the K-Means model on the selected features.
 7. **Cluster Visualization**: Visualize the resulting clusters and their centroids.
+
+### Elbow Point Graph
+![Screenshot 2024-08-22 185039](https://github.com/user-attachments/assets/9b8bd954-c1a7-4130-afdc-98550a877da7)
+
+### K-means Clustering
+![Screenshot 2024-08-22 185101](https://github.com/user-attachments/assets/fa6a0f93-dc60-4285-b0d1-e17cec899e03)
