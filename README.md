@@ -1,8 +1,8 @@
-Name: D G VAIBHAV KRISHNA CHOWDARY
-Company: CODTECH IT SOLUTIONS
-ID: CT08DS6146
-Domain: Data Analytics
-Duration: August to September 2024
+**Name**: D G VAIBHAV KRISHNA CHOWDARY
+**Company**: CODTECH IT SOLUTIONS
+**ID**: CT08DS6146
+**Domain**: Data Analytics
+**Duration**: August to September 2024
 
 ## Customer Segmentation using K-Means Clustering
 
